@@ -1,0 +1,61 @@
+{
+  
+    
+        "post0": {
+            "title": "Relating number of COVID-19 deaths and cases",
+            "content": "Death Rate . Countries with &gt;50000 cases (Projected starting 1000 case mark to calculate rise of deaths in terms of percentage). . Country Death rate . 0 Belgium | 15.599534 | . 1 United Kingdom | 15.398144 | . 2 Italy | 14.376105 | . 3 France | 14.325510 | . 4 Netherlands | 11.998129 | . 5 Mexico | 11.657989 | . 6 Spain | 11.098131 | . 7 Canada | 8.033896 | . 8 Ecuador | 7.395667 | . 9 Sweden | 7.300926 | . 10 China | 5.452495 | . 11 Iran | 5.019025 | . 12 Indonesia | 4.749224 | . 13 Egypt | 4.740907 | . 14 Germany | 4.532920 | . 15 Iraq | 4.076002 | . 16 United States | 4.029717 | . 17 Brazil | 3.863887 | . 18 Colombia | 3.744890 | . 19 Peru | 3.651366 | . Infection-spread rates . Countries with &gt;50000 cases (Projected starting 1000 case mark to calculate rise of infection in terms of percentage) . Country Spread rate . 0 Belgium | 0.000000 | . 1 United Kingdom | 0.184438 | . 2 Italy | 0.069530 | . 3 France | 0.781194 | . 4 Netherlands | 0.138572 | . 5 Mexico | 1.562969 | . 6 Spain | 0.805410 | . 7 Canada | 0.581629 | . 8 Ecuador | 0.867836 | . 9 Sweden | 1.239018 | . 10 China | 0.000000 | . 11 Iran | 0.912931 | . 12 Indonesia | 1.693549 | . 13 Egypt | 1.134397 | . 14 Germany | 0.130553 | . 15 Iraq | 2.875906 | . 16 United States | 1.791711 | . 17 Brazil | 1.087907 | . 18 Colombia | 3.496787 | . 19 Peru | 1.163560 | . Cases Per Million Population . Cases/ml Country Total Population . 0 16617.161537 | Chile | 19116201 | . 1 10163.534914 | United States | 331002651 | . 2 10012.266826 | Peru | 32971854 | . 3 8867.953378 | Brazil | 212559417 | . 4 7508.071132 | Sweden | 10099265 | . 5 5474.370983 | Spain | 46754778 | . 6 5410.616031 | Belgium | 11589623 | . 7 5019.698500 | Russia | 145934462 | . 8 4852.509809 | South Africa | 59308690 | . 9 4296.776253 | United Kingdom | 67886011 | . 10 4022.868909 | Italy | 60461826 | . 11 3880.223911 | Ecuador | 17643054 | . 12 3211.716312 | France | 65273511 | . 13 3091.354728 | Iran | 83992949 | . 14 2994.361440 | Netherlands | 17134872 | . 15 2956.691278 | Colombia | 50882891 | . 16 2914.089111 | Canada | 37742154 | . 17 2537.388752 | Turkey | 84339067 | . 18 2389.240649 | Germany | 83783942 | . 19 2361.192117 | Mexico | 128932753 | . 20 2284.837516 | Argentina | 45195774 | . 21 1982.348533 | Iraq | 40222493 | . 22 1264.126329 | Ukraine | 43733762 | . 23 1148.088702 | Pakistan | 220892340 | . 24 1134.827252 | Bangladesh | 164689383 | . 25 811.076205 | Egypt | 102334404 | . 26 657.064579 | India | 1380004385 | . 27 520.217551 | Philippines | 109581078 | . 28 281.441878 | Indonesia | 273523615 | . 29 59.136798 | China | 1439323776 | . Deaths Per Million Population . Country Total Population Deaths/ml . 0 Belgium | 11589623 | 844.030906 | . 1 United Kingdom | 67886011 | 661.623792 | . 2 Spain | 46754778 | 607.552879 | . 3 Italy | 60461826 | 578.331855 | . 4 Sweden | 10099265 | 548.158703 | . 5 France | 65273511 | 460.094754 | . 6 United States | 331002651 | 409.561674 | . 7 Peru | 32971854 | 365.584538 | . 8 Netherlands | 17134872 | 359.267347 | . 9 Brazil | 212559417 | 342.647722 | . 10 Ecuador | 17643054 | 286.968458 | . 11 Mexico | 128932753 | 275.267526 | . 12 Canada | 37742154 | 234.114884 | . 13 Iran | 83992949 | 155.155881 | . 14 Colombia | 50882891 | 110.724841 | . 15 Germany | 83783942 | 108.302376 | . 16 Iraq | 40222493 | 80.800561 | . 17 Egypt | 102334404 | 38.452366 | . 18 Indonesia | 273523615 | 13.366305 | . 19 China | 1439323776 | 3.224431 | . The data suggests that with increasing number of cases increases death rate up to a certain point but also slows down the spread(rate) of the virus. . Updated daily by GitHub Actions. . This visualization was made by Guneet Singh. . Data sourced from World Bank &quot;2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE&quot;, GitHub repository. Link to original notebook. | .",
+            "url": "http://0.0.0.0:4000/covid19/covid-compare-death-rate/",
+            "relUrl": "/covid-compare-death-rate/",
+            "date": " • May 15, 2020"
+        }
+        
+    
+  
+
+  
+  
+
+  
+      ,"page1": {
+          "title": "About Me",
+          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "url": "http://0.0.0.0:4000/covid19/about/",
+          "relUrl": "/about/",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+      ,"page10": {
+          "title": "",
+          "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
+          "url": "http://0.0.0.0:4000/covid19/robots.txt",
+          "relUrl": "/robots.txt",
+          "date": ""
+      }
+      
+  
+
+}
