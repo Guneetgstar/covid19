@@ -1,0 +1,61 @@
+{
+  
+    
+        "post0": {
+            "title": "Relating number of COVID-19 deaths and cases",
+            "content": "Death Rate . Countries with &gt;50,00,000 cases (Projected starting 1000 case mark to calculate rise of deaths in terms of percentage). . Country Death rate . 0 Brazil | 2.794603 | . 1 United Kingdom | 2.504124 | . 2 Russia | 2.461515 | . 3 France | 1.898218 | . 4 United States | 1.793457 | . 5 India | 1.323959 | . 6 Turkey | 0.916328 | . Infection-spread rates . Countries with &gt;50,00,000 cases (Projected starting 1000 case mark to calculate rise of infection in terms of percentage) . Spread rate Country . 0 0.109796 | Brazil | . 1 0.614396 | United Kingdom | . 2 0.431444 | Russia | . 3 0.072499 | France | . 4 0.018211 | United States | . 5 0.120484 | India | . 6 0.096069 | Turkey | . Cases Per Million Population . Patients/ml Country Total Population . 0 102276.969377 | United States | 331002651 | . 1 90001.578129 | France | 65273511 | . 2 89809.900071 | Brazil | 212559417 | . 3 75702.813058 | United Kingdom | 67886011 | . 4 39150.115207 | Russia | 145934462 | . 5 22372.665142 | India | 1380004385 | . Deaths Per Million Population . Country Deaths/ml Total Population . 0 United States | 308.991390 | 331002651 | . 1 France | 1378.837705 | 65273511 | . 2 Brazil | 422.516684 | 212559417 | . 3 United Kingdom | 1115.145992 | 67886011 | . 4 Russia | 268.271899 | 145934462 | . 5 India | 16.212025 | 1380004385 | . The data suggests that with increasing number of cases increases death rate up to a certain point but also slows down the spread(rate) of the virus. . Updated daily by GitHub Actions. . This visualization was made by Guneet Singh. . Data sourced from World Bank &quot;2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE&quot;, GitHub repository. Link to original notebook. | .",
+            "url": "https://guneetgstar.github.io/covid19/covid-compare-death-rate/",
+            "relUrl": "/covid-compare-death-rate/",
+            "date": " • May 15, 2020"
+        }
+        
+    
+  
+
+  
+  
+
+  
+      ,"page1": {
+          "title": "About Me",
+          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "url": "https://guneetgstar.github.io/covid19/about/",
+          "relUrl": "/about/",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+      ,"page10": {
+          "title": "",
+          "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
+          "url": "https://guneetgstar.github.io/covid19/robots.txt",
+          "relUrl": "/robots.txt",
+          "date": ""
+      }
+      
+  
+
+}
